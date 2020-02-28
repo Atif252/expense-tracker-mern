@@ -1,0 +1,6 @@
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+   },
+   "python.pythonPath": "C:\\Users\\Atif\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
+ }
